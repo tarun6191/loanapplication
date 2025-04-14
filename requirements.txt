@@ -1,7 +1,7 @@
-scikit-learn==0.22.1
-numpy
-pandas
-matplotlib
-streamlit==0.76.0
-Pillow
-seaoborn
+scikit-learn==1.4.2
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.8.4
+streamlit==1.32.2
+seaborn==0.13.2
+Pillow==10.3.0
